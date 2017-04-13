@@ -1,0 +1,28 @@
+{
+  "name": "maptime-turf",
+  "version": "1.0.0",
+  "description": "Turf Node.js Demo from Maptime MSP April 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywalz/maptime-turf.git"
+  },
+  "keywords": [
+    "GIS"
+  ],
+  "author": "Andy Walz <andy.walz@luminfire.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andywalz/maptime-turf/issues"
+  },
+  "homepage": "https://github.com/andywalz/maptime-turf#readme",
+  "dependencies": {
+    "@turf/turf": "^4.1.0",
+    "geojson": "^0.4.1",
+    "get-json": "0.0.3",
+    "open": "0.0.5"
+  }
+}
