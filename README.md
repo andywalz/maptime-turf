@@ -2,6 +2,8 @@
 
 Working version of live demo from https://www.meetup.com/MaptimeMSP/events/237717387/
 
+Slide deck: https://docs.google.com/presentation/d/1ilsZ9CcQQK25GGkOildPBvTcTdX_EPQ4v1YybsOEMtw/edit?usp=sharing
+
 To use:
 
 - Clone or download repo
